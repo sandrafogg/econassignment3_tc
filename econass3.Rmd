@@ -255,6 +255,7 @@ total_cost
 total_benefit - total_cost # the benefits outweigh the costs where costs - benefits = 34877870 vs 7000000 (VSR program cost)
 
 # -737264.5
+# you would not recomend the program
 
 ```
 7. Suppose the price of a carbon credit is $Z per ton, at what price Z* will the shipping industry decide to adopt the VSR for purely self-interested reasons? (Note: if ships voluntarily reduce speed, then the $7 million cost (noted above) of implementing the VSR would be avoided)
