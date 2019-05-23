@@ -219,11 +219,11 @@ bid_mean<- function(x){(0.1196977 + 0.0204401*1 + 0.0158639*38.366 + 0.0007445*x
 bid_mean(60)
 # avergae WTP = 274.2707
 
-#with income:
+#with income onepercent:
 bid_mean_income<- function(x){(0.1196977 + 0.0204401*1 + 0.0158639*38.366 + 0.0088282*1 + 0.0007445*x - 0.5)/0.0010699}
 
 bid_mean_income(60)
-#WTP with "rich" income 281.2705
+#WTP with "onepercent" income 282.5221
 
 
 
