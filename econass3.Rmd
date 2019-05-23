@@ -249,17 +249,12 @@ total_benefit # total benefit to sb for a 60% reduction is 6262736
 # then compare it to the total benefit solved for in problem 5
 #I'm unsure about the cost. Doesn't it say that its $7 million? I'm confused..
 
-total_cost<- 150000*274.2707
+total_cost<- 7000000
 total_cost
 
-#or cost = 281.2705
+total_benefit - total_cost # the benefits outweigh the costs where costs - benefits = 34877870 vs 7000000 (VSR program cost)
 
-total_cost2<- 150000*281.2705
-total_cost2
-
-total_cost - total_benefit # the benefits outweigh the costs where costs - benefits = 34877870 vs 7000000 (VSR program cost)
-
-
+# -737264.5
 
 ```
 7. Suppose the price of a carbon credit is $Z per ton, at what price Z* will the shipping industry decide to adopt the VSR for purely self-interested reasons? (Note: if ships voluntarily reduce speed, then the $7 million cost (noted above) of implementing the VSR would be avoided)
